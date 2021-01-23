@@ -8,3 +8,4 @@
  [<img src="https://img.shields.io/badge/sjshohag-211e1b?style=for-the-badge&logo=SVG&logoColor=white">](https://www.codechef.com/users/sjshohag) 
 
 ![Profile views](https://gpvc.arturio.dev/ShahjalalShohag)
+<a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
