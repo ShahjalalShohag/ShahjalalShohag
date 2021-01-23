@@ -1,5 +1,5 @@
 ### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&theme=gotham" alt="ShahjalalShohag" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=gotham" alt="ShahjalalShohag" />
  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
 ### My Stacks
