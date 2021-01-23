@@ -4,7 +4,7 @@
 ## My handles
  [<img src="https://img.shields.io/badge/ShahjalalShohag-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shahjalal-shohag-394332156/)
  [<img src="https://img.shields.io/badge/ShahjalalShohag-211e1b?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/ShahjalalShohag) 
- [<img src="https://img.shields.io/badge/YouKn0wWho-00599C?style=for-the-badge">](https://codeforces.com/profile/YouKn0wWho) 
- [<img src="https://img.shields.io/badge/sjshohag-00599C">](https://www.codechef.com/users/sjshohag) 
+ [<img src="https://img.shields.io/badge/YouKn0wWho-00599C?style=for-the-badge&logo=SVG&logoColor=white">](https://codeforces.com/profile/YouKn0wWho) 
+ [<img src="https://img.shields.io/badge/sjshohag-00599C?style=for-the-badge&logo=SVG&logoColor=white">](https://www.codechef.com/users/sjshohag) 
 
 ![Profile views](https://gpvc.arturio.dev/ShahjalalShohag)
