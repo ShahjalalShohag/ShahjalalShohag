@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&theme=gotham" alt="ShahjalalShohag" />
   
 ## My handles
- [<img src="https://img.shields.io/badge/ShahjalalShohag-0C1014?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shahjalal-shohag-394332156/)
+ [<img src="https://img.shields.io/badge/ShahjalalShohag-black?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shahjalal-shohag-394332156/)
  [<img src="https://img.shields.io/badge/ShahjalalShohag-black?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/ShahjalalShohag) 
  [<img src="https://img.shields.io/badge/YouKn0wWho-black?style=for-the-badge&logo=SVG&logoColor=white">](https://codeforces.com/profile/YouKn0wWho) 
  [<img src="https://img.shields.io/badge/sjshohag-black?style=for-the-badge&logo=SVG&logoColor=white">](https://www.codechef.com/users/sjshohag) 
