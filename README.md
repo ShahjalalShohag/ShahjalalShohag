@@ -1,6 +1,7 @@
 ### About Me
 - [shahjalalshohag.com](shahjalalshohag.com)
 - [linkedin/shahjalalshohag](https://www.linkedin.com/in/shahjalalshohag/)
+- [twitter](https://twitter.com/shahjalalsohag)
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=dark" alt="ShahjalalShohag" />
@@ -25,4 +26,4 @@
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ShahjalalShohag&theme=react-dark)](https://github.com/ShahjalalShohag/github-readme-activity-graph)
  
  <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahjalalShohag&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahjalalShohag&theme=dark&layout=compact&align=right&width=40%)](https://git)hub.com/ShahjalalShohag/github-readme-stats)
