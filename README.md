@@ -1,7 +1,7 @@
 ### About Me
 - [shahjalalshohag.com](shahjalalshohag.com)
 - [linkedin/shahjalalshohag](https://www.linkedin.com/in/shahjalalshohag/)
-- [twitter](https://twitter.com/shahjalalsohag)
+- [twitter/shahjalalsohag](https://twitter.com/shahjalalsohag)
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=dark" alt="ShahjalalShohag" />
