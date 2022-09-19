@@ -9,7 +9,7 @@
 ### My Stacks
 #### Languages: C++ | Python | Javascript | Typescript | Solidity 
 
-#### Frontend: HTML | React | NextJS | Tailwind CSS
+#### Frontend: HTML | CSS | React | NextJS | Tailwind
 
 #### Backend: Python | FastAPI | PostgreSQL | JWT Auth | Pandas | Pydantic | Sentry | Redis | Pytest
 
