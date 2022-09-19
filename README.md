@@ -2,6 +2,8 @@
 - [shahjalalshohag.com](https://shahjalalshohag.com/)
 - [linkedin/shahjalalshohag](https://www.linkedin.com/in/shahjalalshohag/)
 - [twitter/shahjalalsohag](https://twitter.com/shahjalalsohag)
+- [academy.shahjalalshohag.com](https://academy.shahjalalshohag.com/)
+- [blog.shahjalalshohag.com](https://blog.shahjalalshohag.com/home)
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=dark" alt="ShahjalalShohag" />
