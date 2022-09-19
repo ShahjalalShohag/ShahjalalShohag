@@ -13,9 +13,9 @@
 
 #### Backend: Python | FastAPI | PostgreSQL | JWT Auth | Pandas | Pydantic | Sentry | Redis | Pytest
 
-#### Blockchain/Smart Contracts: Solidity | Javascript | Typescript | Remix | Hardhat | Moralis | Web3uikit | Ethers | Mocha | Chai | Waffle | ChainLink | Typechain
+#### Blockchain/Smart Contracts: Solidity | Javascript | Typescript | Web3.js | Python | Web3.py | Remix | Hardhat | Moralis | Web3uikit | Ethers | Mocha | Chai | Waffle | ChainLink | Typechain | Alchemy | Infura | Ganache
 
-#### Others: Git | Docker | Latex | Linux
+#### Others: Git | Docker | Latex | Linux | Vercel
 
 ## My Handles
  [<img src="https://img.shields.io/badge/ShahjalalShohag-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shahjalal-shohag-394332156/)
