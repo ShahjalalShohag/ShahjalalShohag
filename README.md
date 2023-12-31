@@ -25,13 +25,9 @@
  [<img src="https://img.shields.io/badge/YouKn0wWho-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/YouKn0wWho) 
  [<img src="https://img.shields.io/badge/sjshohag-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/sjshohag) 
 
-![Profile views](https://gpvc.arturio.dev/ShahjalalShohag)
- 
+
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahjalalShohag&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
- 
- <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=ShahjalalShohag&theme=react-dark)](https://github.com/ShahjalalShohag/github-readme-activity-graph)
  
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahjalalShohag&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats)
