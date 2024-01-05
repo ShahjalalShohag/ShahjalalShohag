@@ -2,7 +2,7 @@
 - [shahjalalshohag.com](https://shahjalalshohag.com/)
 - [linkedin/shahjalalshohag](https://www.linkedin.com/in/shahjalalshohag/)
 - [twitter/shahjalalsohag](https://twitter.com/shahjalalsohag)
-- [academy.shahjalalshohag.com](https://academy.shahjalalshohag.com/)
+- [youkn0wwho.academy](https://youkn0wwho.academy/)
 - [blog.shahjalalshohag.com](https://blog.shahjalalshohag.com/home)
 
 ### My Github Stats
