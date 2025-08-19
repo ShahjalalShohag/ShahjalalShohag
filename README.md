@@ -1,33 +1,25 @@
-### About Me
-- [shahjalalshohag.com](https://shahjalalshohag.com/)
-- [linkedin/shahjalalshohag](https://www.linkedin.com/in/shahjalalshohag/)
-- [twitter/shahjalalsohag](https://twitter.com/shahjalalsohag)
-- [youkn0wwho.academy](https://youkn0wwho.academy/)
-- [blog.shahjalalshohag.com](https://blog.shahjalalshohag.com/home)
+**2x ICPC World Finalist** | Problem Setter at **International Math Olympiad** | Codeforces **Grandmaster**
 
-### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=dark" alt="ShahjalalShohag" />
+Senior Software Engineer | Led teams developing **AI agents** and **RAG pipelines** at AlpineX AI | Engineered **Full Stack blockchain** and **DeFi** applications at Affine DeFi
 
-### My Stacks
-#### Languages: C++ | Python | Javascript | Typescript | Solidity 
+🔗 **[Visit my website](https://shahjalalshohag.com/) for full portfolio, achievements, and experience**
 
-#### Frontend: HTML | CSS | React | NextJS | Tailwind
+## 📊 GitHub Stats
 
-#### Backend: Python | FastAPI | PostgreSQL | JWT Auth | Pandas | Pydantic | Sentry | Redis | Pytest
+<div align="center">
 
-#### Blockchain/Smart Contracts: Solidity | Javascript | Typescript | Web3.js | Python | Web3.py | Remix | Hardhat | Moralis | Web3uikit | Ethers | Mocha | Chai | Waffle | ChainLink | Typechain | Alchemy | Infura | Ganache
-
-#### Others: Git | Docker | Latex | Linux | Vercel
-
-## My Handles
- [<img src="https://img.shields.io/badge/ShahjalalShohag-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shahjalal-shohag-394332156/)
- [<img src="https://img.shields.io/badge/ShahjalalShohag-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/ShahjalalShohag) 
- [<img src="https://img.shields.io/badge/YouKn0wWho-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/YouKn0wWho) 
- [<img src="https://img.shields.io/badge/sjshohag-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/sjshohag) 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=react&hide_border=true)
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahjalalShohag&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
- 
- <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahjalalShohag&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahjalalShohag&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+
+<!--  TOP LANGUAGES STATISTICS -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahjalalShohag&theme=react&hide_border=true&layout=compact)
+
+</div>
+
+## 🔗 Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shahjalalshohag.com-blue?style=for-the-badge&logo=google-chrome)](https://shahjalalshohag.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahjalalshohag/) [![Codeforces](https://img.shields.io/badge/Codeforces-YouKn0wWho-red?style=for-the-badge)](https://codeforces.com/profile/YouKn0wWho)
