@@ -1,3 +1,5 @@
+# Hi there! 👋 I'm Shahjalal Shohag
+
 **2x ICPC World Finalist** | Problem Setter at **International Math Olympiad** | Codeforces **Grandmaster**
 
 Senior Software Engineer | Led teams developing **AI agents** and **RAG pipelines** at AlpineX AI | Engineered **Full Stack blockchain** and **DeFi** applications at Affine DeFi
@@ -8,15 +10,9 @@ Senior Software Engineer | Led teams developing **AI agents** and **RAG pipeline
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=react&hide_border=true)
-
-<!--  CONTRIBUTION AND STREAK BLOCK -->
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahjalalShohag&theme=github_dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahjalalShohag&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
-
-<!--  TOP LANGUAGES STATISTICS -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahjalalShohag&theme=react&hide_border=true&layout=compact)
 
 </div>
 
