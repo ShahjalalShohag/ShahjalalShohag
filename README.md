@@ -8,7 +8,7 @@ Senior Software Engineer | Led teams developing **AI agents** and **RAG pipeline
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahjalalShohag&theme=github_dark)
+![GitHub Stars](https://img.shields.io/github/stars/ShahjalalShohag?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=181717&color=007ec6)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahjalalShohag&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
