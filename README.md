@@ -1,6 +1,6 @@
 **2x ICPC World Finalist** | Problem Setter at **International Math Olympiad** | Codeforces **Grandmaster**.
 
-Senior Software Engineer | Led teams developing **AI agents** and **RAG pipelines** at AlpineX AI | Engineered **Full Stack blockchain** and **DeFi** applications at Affine DeFi.
+Led teams developing **AI agents** and **RAG pipelines** at AlpineX AI | Engineered **Full Stack blockchain** and **DeFi** applications at Affine DeFi.
 
 🔗 **[Visit my website](https://shahjalalshohag.com/) for full portfolio, achievements, and experience**.
 
