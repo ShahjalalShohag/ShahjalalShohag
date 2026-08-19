@@ -9,9 +9,6 @@ Led teams developing **AI agents** and **RAG pipelines** at AlpineX AI | Enginee
 <div align="center">
 
 ![GitHub Stars](https://img.shields.io/github/stars/ShahjalalShohag?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=181717&color=007ec6)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahjalalShohag&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
-
 </div>
 
 ## 🔗 Links
